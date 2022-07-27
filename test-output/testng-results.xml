@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92" started-at="2022-05-24T12:12:26 CEST" finished-at="2022-05-24T12:12:26 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92" started-at="2022-05-24T12:12:26 CEST" finished-at="2022-05-24T12:12:26 CEST">
+      <class name="JavaStreams">
+        <test-method status="PASS" signature="streamCollect()[pri:0, instance:JavaStreams@45820e51]" name="streamCollect" duration-ms="17" started-at="2022-05-24T12:12:26 CEST" finished-at="2022-05-24T12:12:26 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- streamCollect -->
+      </class> <!-- JavaStreams -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
